@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  color: black;
+  font-size: 0.9rem;
+}
+
+body {
+  width: 100%;
+  background-color: aliceblue;
+  font-family: "Montserrat", sans-serif;
+}
+
+.wrapper {
+  width: 60%;
+  padding: 2%;
+  margin: 0 auto;
+  background-color: #ffffff;
+  border: 1px solid lightgray;
+}
+
+header {
+  display: none;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+}
+
+.footer {
+  padding: 5px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 5px solid lightslategrey;
+}
+
+.footer span {
+  font-size: 1.5em;
+}
