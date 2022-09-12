@@ -1,1 +1,1 @@
-# Diatchik-rsschool-cv
+# [CV HTML, CSS & Git Basics](https://Diatchik.github.io/rsschool-cv/)
