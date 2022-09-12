@@ -7,7 +7,7 @@
 
 ### Contact Info
 
-- Email: [anastasia.diatchik91@mail.ru](https://e.mail.ru/messages/inbox/)
+- Email: [diatchik91@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 - Skype: [dyatchik.nastia](dyatchik.nastia)
 
 ---
@@ -20,7 +20,7 @@
 
 ### Skills
 
-- Technologies: html, css, SVG
+- Technologies: html, css
 - Tool: VSCode
 - Graphic: Figma
 
@@ -52,8 +52,6 @@ function factorial (naturalNumber) {
 ### Education
 
 - BSUIR
-- PHP programming basics 
-- [OOP basics ](https://www.it-academy.by/)
 - [HTML, CSS](https://htmlacademy.ru/courses)
 
 ---
